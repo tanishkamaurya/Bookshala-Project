@@ -1,0 +1,16 @@
+.visited-date {
+    position: relative;
+  }
+  
+  .visited-date::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0.6em;
+    height: 0.6em;
+    background-color: yellow;
+    border-radius: 50%;
+  }
+   

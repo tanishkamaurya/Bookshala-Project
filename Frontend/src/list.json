@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Panchtantra",
+        "title": "The Panchatantra is an ancient Indian collection of moral fables featuring animal characters.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/p.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 2,
+        "name": "Cook Book",
+        "title": "Tarla Dalal's cookbook features easy and delicious Indian recipes for home cooks.",
+        "price": 20,
+        "category": "Paid",
+        "image": "../public/c.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 3,
+        "name": "Mathematics Book",
+        "title": "A maths book covers essential mathematical concepts and problem-solving techniques.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/m.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 4,
+        "name": "Harry Potter",
+        "title": "Harry Potter is a fantasy book series about a young wizard's adventures at Hogwarts School.",
+        "price": 100,
+        "category": "Paid",
+        "image": "../public/h.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 5,
+        "name": "Tinkle",
+        "title": "Tinkle is a popular comic book series featuring entertaining stories and colorful characters for kids.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/t.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 6,
+        "name": "Atomic Habits",
+        "title": "Atomic Habits by James Clear offers practical strategies for building good habits and breaking bad ones.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/a.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 7,
+        "name": "Rich Dad Poor Dad",
+        "title": "Robert Kiyosaki teaches financial literacy through contrasting lessons from two father figures.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/r.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 8,
+        "name": "The Alchemist",
+        "title": "Paulo Coelho follows a shepherd named Santiago on a transformative journey to pursue his dreams and discover his destiny.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/al.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 9,
+        "name": "Let's Learn French",
+        "title": "Provides essential language skills and practical exercises for beginners to master French communication.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/f.jpeg",
+        "pdf"  : "../public/p.pdf"
+    },
+    {
+        "id": 10,
+        "name": "Quantum Computing Book",
+        "title": "Explores the principles and applications of quantum mechanics in computing, offering insights into revolutionary technologies.",
+        "price": 0,
+        "category": "Free",
+        "image": "../public/q.jpeg",
+        "pdf"  : "../public/p.pdf"
+    }
+]

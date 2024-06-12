@@ -1,0 +1,33 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "mern project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devisha04/BookShala2.git"
+  },
+  "author": "Devisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devisha04/BookShala2/issues"
+  },
+  "homepage": "https://github.com/devisha04/BookShala2#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "js": "^0.1.0",
+    "mongoose": "^8.4.1",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^3.1.3"
+  }
+}

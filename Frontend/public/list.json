@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "name": "Panchtantra",
+        "title": "The Panchatantra is an ancient Indian collection of moral fables featuring animal characters.",
+        "price": 0,
+        "category": "Free",
+        "image": "p.jpeg",
+         "mood": "Happy"
+    },
+    {
+        "id": 2,
+        "name": "Cook Book",
+        "title": "Thiss cookbook features easy and delicious Indian Chinese Mexican and different cuisines recipes for home cooks.",
+        "price": 20,
+        "category": "paid",
+        "image": "c.jpeg",
+          "mood": "Happy"
+    },
+        
+    
+    {
+        "id": 3,
+        "name": "Mathematics Book",
+        "title": "A maths book covers essential mathematical concepts and problem-solving techniques for problem solving skills",
+        "price": 0,
+        "category": "Free",
+        "image": "m.jpeg",
+         "mood": "Study"
+    },
+    {
+        "id": 4,
+        "name": "Harry Potter",
+        "title": "Harry Potter is a fantasy book series about a young wizard's adventures at Hogwarts School.",
+        "price": 100,
+        "category": "paid",
+        "image": "h.jpeg",
+         "mood": "Happy"
+    },
+    {
+        "id": 5,
+        "name": "Tinkle",
+        "title": "Tinkle is a popular comic book series featuring entertaining stories and colorful characters for kids.",
+        "price": 0,
+        "category": "Free",
+        "image": "t.jpeg",
+         "mood": "Happy"
+    },
+    {
+        "id": 6,
+        "name": "Atomic Habits",
+        "title": "Atomic Habits by James Clear offers practical strategies for building good habits and breaking bad ones.",
+        "price": 0,
+        "category": "Free",
+        "image": "a.jpeg",
+        "mood":"Motivation"
+    },
+    {
+        "id": 7,
+        "name": "Rich Dad Poor Dad",
+        "title": "Robert Kiyosaki teaches financial literacy through contrasting lessons from two father figures.",
+        "price": 0,
+        "category": "Free",
+        "image": "r.jpeg",
+        "mood":"Motivation"
+    },
+    {
+        "id": 8,
+        "name": "The Alchemist",
+        "title": "Paulo Coelho follows a shepherd named Santiago on a transformative journey to pursue his dreams.",
+        "price": 0,
+        "category": "Free",
+        "image": "al.jpeg",
+        "mood":"Motivation"
+    },
+    {
+        "id": 9,
+        "name": "Let's Learn French",
+        "title": "Provides essential language skills and practical exercises for beginners to master French communication.",
+        "price": 0,
+        "category": "Free",
+        "image": "f.jpeg",
+        "mood":"Study"
+    },
+    {
+        "id": 10,
+        "name": "Quantum Computing Book",
+        "title": "Explores the principles and applications of quantum mechanics in computing.",
+        "price": 0,
+        "category": "Free",
+        "image": "q.jpeg",
+         "mood":"Study"
+    },
+
+    {
+        "id": 11,
+        "name": "Can you keep a Secret?",
+        "title": "In Can You Keep a Secret? Emma accidentally spills her secrets to a stranger on a plane, only to later find out he's her company's CEO.",
+        "price": 10,
+        "category": "Paid",
+        "image": "s.png",
+         "mood":"Happy"
+    },
+
+    {
+        "id": 12,
+        "name": "Falling in Love",
+        "title": "Falling in Love by a new author portrays the myriad struggles of life through its characters' experiences and challenges.",
+        "price": 10,
+        "category": "Paid",
+        "image": "fall.jpeg",
+         "mood":"Sad"
+    },
+
+    {
+        "id": 13,
+        "name": "Hobbit",
+        "title": "It follows Bilbo Baggins as he embarks on an unexpected adventure with a group of dwarves to reclaim their homeland from the dragon Smaug.",
+        "price": 10,
+        "category": "Paid",
+        "image": "hobbit2.jpeg",
+         "mood":"Happy"
+    },
+    {
+        "id": 14,
+        "name": "And Then There Were None",
+        "title": "Thrilling mystery where ten strangers are lured to an island and systematically murdered, revealing secrets from their past.",
+        "price": 5,
+        "category": "Paid",
+        "image": "and.jpeg",
+         "mood":"Suspese"
+    },
+
+    {
+        "id": 15,
+        "name": "Class 12th PCM",
+        "title": "The CBSE Class 12 coursebook covers subjects like Mathematics, Physics, Chemistry, English, etc., preparing students for higher education and competitive exams.",
+        "price": 1,
+        "category": "Paid",
+        "image": "12m.jpeg",
+         "mood":"Study"
+    },
+
+    {
+        "id": 16,
+        "name": "Class 12th PCB",
+        "title": "The CBSE Class 12 coursebook covers subjects like Biology, Physics, Chemistry, English, etc., preparing students for higher education and competitive exams.",
+        "price": 1,
+        "category": "Paid",
+        "image": "12b.jpeg",
+         "mood":"Study"
+    },
+
+    {
+        "id": 17,
+        "name": "Class 10th ",
+        "title": "The CBSE Class 10 coursebook covers subjects like Mathematics, Physics, Chemistry, English, etc., preparing students for higher education and competitive exams.",
+        "price": 1,
+        "category": "Paid",
+        "image": "10.jpeg",
+         "mood":"Study"
+    },
+    {
+        "id": 18,
+        "name": "Class 9th ",
+        "title": "The CBSE Class 9 coursebook covers subjects like Mathematics, Physics, Chemistry, English, etc., preparing students for higher education and competitive exams.",
+        "price": 1,
+        "category": "Paid",
+        "image": "c9.jpeg",
+         "mood":"Study"
+    },
+    {
+        "id": 19,
+        "name": "Learn English ",
+        "title": "The Learn English book offers comprehensive language instruction, covering grammar, vocabulary, reading, writing, and speaking skills for learners of all levels.",
+        "price": 2,
+        "category": "Paid",
+        "image": "e.jpeg",
+         "mood":"Study"
+    },
+
+    {
+        "id": 20,
+        "name": "Gone with the Wind",
+        "title": " It ias a sweeping epic set against the backdrop of the American Civil War, following the tumultuous romance between headstrong Scarlett O'Hara and the enigmatic Rhett Butler.",
+        "price": 10,
+        "category": "Paid",
+        "image": "g.jpeg",
+         "mood":"Sad"
+    }
+
+]
