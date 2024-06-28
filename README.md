@@ -42,48 +42,35 @@ Navigate to the frontend and backend directories in separate terminals:
 
 bash
 Copy code
-# Terminal 1
+ Terminal 1
 cd frontend
 
-# Terminal 2
+Terminal 2
 cd backend
 Install dependencies:
 
 bash
 Copy code
-# In both frontend and backend directories
+ In both frontend and backend directories
 npm install
 Usage
 Start the development server:
 
 bash
 Copy code
-# In the frontend terminal
+ In the frontend terminal
 npm run dev
 Start the backend server:
 
 bash
 Copy code
-# In the backend terminal
+ In the backend terminal
 npm start
 
 
-Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
-Fork the repository
-Create a feature branch
-Commit your changes
-Push to the branch
-Open a pull request
 
-Contact
-If you have any questions or feedback, feel free to contact us at:
 
-Email: your-devishatyagi361@gmail.com
-GitHub: your-devisha04
-![Screenshot 2024-06-05 211847](https://github.com/devisha04/p1/assets/147936789/2ca7ed5a-f831-4c69-8b84-3bfb7ec3e5b6)
-![Screenshot 2024-06-05 211749](https://github.com/devisha04/p1/assets/147936789/0446b4ed-4c29-4ef8-aae8-19f260096460)
-![Screenshot 2024-06-05 211912](https://github.com/devisha04/p1/assets/147936789/d0d4b2d1-39b4-486f-ac59-a3c9e20fb2ce)
+
 
 
