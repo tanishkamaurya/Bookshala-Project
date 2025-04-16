@@ -31,41 +31,14 @@ Node.js
 Express.js
 MongoDB
 Installation
-Follow these steps to run the project locally:
 
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/devisha04/p1.git
-Navigate to the frontend and backend directories in separate terminals:
 
-bash
-Copy code
- Terminal 1
-cd frontend
 
-Terminal 2
-cd backend
-Install dependencies:
 
-bash
-Copy code
- In both frontend and backend directories
-npm install
-Usage
-Start the development server:
 
-bash
-Copy code
- In the frontend terminal
-npm run dev
-Start the backend server:
 
-bash
-Copy code
- In the backend terminal
-npm start
+
 
 
 
